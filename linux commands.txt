@@ -1,0 +1,50 @@
+f -kh
+  496  who
+  497  whoami
+  498  pwd
+  499  top
+  500  ps -eaf | grep java
+  501  uname -a - name of os system
+  502  unname -r - kernel information
+  503  uname -r
+  504  lsb_release -a - which version of ubuntu installed
+  505  last reboot
+  506  date
+  507  cal
+  508  cat /proc/cpuinfo - cpu information
+  509  cat /proc/meminfo  - memory information
+  510  top
+  511  mpstat 1
+  512  lsof - list of all open files
+  513  lsof -u user
+  514  history
+  515  uptime - how long the system is running and Load average
+  516  hdparm -i /dev/sda - show infor about disk sda
+  517  sudo hdparm -i /dev/sda
+  518  lsusb -tv   - display USB devices
+  519  useradd amma
+  520  sudo useradd amma
+  521  cd $H
+  522  ls
+  523  pwd
+  524  cd ..
+  525  ls
+  526  cd ..
+  527  ls
+  528  pwd
+  529  ls -larth
+  530  groupadd family
+  531  sudo groupadd family
+  532  sudo usermod -a -G family amma
+  533  cat /etc/pwd
+  534  cat /etc/passwd
+  535* 
+  536  cat /etc/passwd
+  537  sudo usermod -a -G family appa
+  538  cat /etc/passwd
+  539  id
+  540  cat /etc/grp
+  541  cat /etc/group
+  542  ls
+  543  cd /home
+  544  ls
